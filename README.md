@@ -1,6 +1,6 @@
-# teste
+# Atividade Primeiro App
 
-A new Flutter project.
+A atividade realizada individualmente pelo android studio, o tema escolido para a atividade foi Quiz F1.
 
 ## Getting Started
 
